@@ -1,7 +1,9 @@
 <!-- Profile README for: Maryam-Hasheminejad -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff2d7a&height=150&section=header&text=Maryam%20Hasheminejad&fontColor=ffffff&fontSize=50&desc=Computer%20Engineering%20Student%20•%20Web%20•%20Robotics%20•%20Hands-on%20Builder&descAlignY=82" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b1f4b&height=150&section=header&text=Maryam%20Hasheminejad&fontColor=ffffff&fontSize=50&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Web%20%E2%80%A2%20Robotics%20%E2%80%A2%20Hands-on%20Builder&descAlignY=82" />
+</p>
+
 </p>
 
 <p align="center">
