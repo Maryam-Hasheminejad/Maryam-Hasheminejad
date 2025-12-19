@@ -13,11 +13,13 @@
   </a>
 </p>
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/تم-مشکی%20با%20حال‌وهوای%20کی‌پاپی-000000?style=for-the-badge&logo=applemusic&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/علاقه‌مندی-گربه‌ها-000000?style=for-the-badge&logo=githubsponsors&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/گیت-اوکی‌ام-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Style-Black%20%26%20K--pop%20Glow-000000?style=for-the-badge&logo=applemusic&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Loves-Cats-000000?style=for-the-badge&logo=meow&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Git-Comfortable-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
 </p>
+
 
 ---
 
