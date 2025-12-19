@@ -105,5 +105,5 @@
 - نمونه‌کار: `https://...`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/الان-در%20حال%20ساختن-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Currently-Designing%20%26%20Building-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 </p>
